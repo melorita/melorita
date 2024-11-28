@@ -1,9 +1,9 @@
-👋 Hi, I’m Melat Worku
-👀 I’m interested in front-end development, web design, and creating intuitive user experiences.
-🌱 I’m currently learning HTML, CSS, JavaScript, and frameworks like React to build interactive web applications.
-💞️ I’m looking to collaborate on front-end development projects, open-source contributions, and web design collaborations.
-📫 How to reach me: You can reach me via email at melatworku16@.com.
-😄 Pronouns: She/Her
+#👋 Hi, I’m Melat Worku<br>
+👀 I’m interested in front-end development, web design, and creating intuitive user experiences.<br>
+🌱 I’m currently learning HTML, CSS, JavaScript, and frameworks like React to build interactive web applications.<br>
+💞️ I’m looking to collaborate on front-end development projects, open-source contributions, and web design collaborations.<br>
+📫 How to reach me: You can reach me via email at melatworku16@.com.<br>
+😄 Pronouns: She/Her<br>
 ⚡ Fun fact: I love solving coding challenges and mathematical problems and am always up for learning new technologies and improving my skills!
 
 <!---
